@@ -8,6 +8,8 @@ WCH-LinkE Clone
 
 ![](./documents/pins.png)
 
+- Shop Site: [BOOTH](https://74th.booth.pm/items/5022813)
+
 ## Features
 
 - Arduino UNO R4-like SWD with UART 1.26mm 10-pin added. VCC is 3.3V.
