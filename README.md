@@ -2,7 +2,7 @@
 
 WCH-LinkE Clone
 
-<img src="./documents/photo1.jpg" width="49%" /><img src="./documents/photo2.jpg" width="33%" />
+<img src="./documents/photo1.jpg" width="49%" /><img src="./documents/photo2.jpg" width="49%" />
 
 ![](./documents/photo3.jpg)
 
