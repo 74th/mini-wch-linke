@@ -17,7 +17,7 @@ WCH-LinkE Clone
 
 ## v1.1.1
 
-- semantics: [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fmini-wch-linke%2Fblob%2F1.1.1%2Fwch-link.kicad_sch)
+- semantics: [PDF](documents/mini-wch-linke-v1.1.1.pdf) [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fmini-wch-linke%2Fblob%2F1.1.1%2Fwch-link.kicad_sch)
 - pcb: [kicanvas](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2F74th%2Fmini-wch-linke%2Fblob%2F1.1.1%2Fwch-link.kicad_pcb)
 
 ### BOM
