@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "WCH-LinkE Clone - Mini WCH LinkE")
+    (rev "1.1.1")
+    (company "74th")
+  )
+
   (lib_symbols
     (symbol "$74th:1Pin" (in_bom yes) (on_board yes)
       (property "Reference" "CH" (at 0 2.54 0)
@@ -2433,10 +2439,10 @@
   (symbol (lib_id "$74th:USB2.0_C_v3") (at 185.42 44.45 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a89346c2-170d-4bd3-9454-d35a5cdecf07)
-    (property "Reference" "J1" (at 185.42 22.86 0)
+    (property "Reference" "J1" (at 185.42 21.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "USB2.0_C_v3" (at 185.42 25.4 0)
+    (property "Value" "USB" (at 185.42 24.13 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "$74th:USB-C-12-Pin-SMD" (at 189.23 44.45 0)
